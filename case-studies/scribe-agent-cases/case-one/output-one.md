@@ -6,13 +6,13 @@
 
 ---
 
-## 📋 Patient Identification
+## Patient Identification
 * [cite_start]**Name**: Sarah Mitchell (Synthetic Patient) [cite: 2]
 * [cite_start]**NHI**: ABC1234 (Synthetic) [cite: 3]
 * [cite_start]**DOB**: 14 March 1988 (Age 37) [cite: 4]
 * [cite_start]**Provider**: Dr James Carter, Harbour Family Medical Centre [cite: 8, 9]
 
-## 💊 Longitudinal Medication Audit (2021–2026)
+## Longitudinal Medication Audit (2021–2026)
 
 | Medication (Generic) | Duration of Therapy | Original Indication | Last Lab Check-up | Review Required? |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,7 +22,7 @@
 | [cite_start]**Ferrous fumarate 210mg OD** [cite: 18] | [cite_start]~2 years, 8 months (Since June 2023) [cite: 29] | [cite_start]Iron Deficiency [cite: 13] | [cite_start]Jan 2026: Ferritin 40 µg/L [cite: 41] | [cite_start]**No**; ferritin recovered from 9 µg/L [cite: 29] [cite_start]to 40 µg/L[cite: 41]. |
 | [cite_start]**Vitamin D3 1000 IU daily** [cite: 19] | [cite_start]Duration unclear (Noted Active 2026) [cite: 14] | Maintenance/Deficiency | [cite_start]None recorded in last 24 months [cite: 40] | **Monitor**; ensure ongoing need if levels not checked recently. |
 
-## 📊 Clinical Progress Trends (2024–2026)
+## Clinical Progress Trends (2024–2026)
 
 
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛡️ NZ Health Standards Compliance
+## NZ Health Standards Compliance
 * **Māori Data Sovereignty**: This data is treated as **Taonga** (Treasure) per **HISO 10094**.
 * **Regulatory Framework**: Prepared in alignment with the **Pae Ora (Healthy Futures) Act 2022** and **HIPC 2020** privacy protocols.
 * **Security**: Follows **HISO 10029** NIST-based Security Framework.
